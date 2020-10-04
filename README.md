@@ -7,6 +7,7 @@ PDFBox is a project of the Apache Software Foundation https://www.apache.org/.
 
 
 **PdfToText**
+
 Convert PDF file to Text using PDFBox (Java Library)
 
 And ALso
